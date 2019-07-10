@@ -10,12 +10,12 @@
 
 ### Общая информация 
 
-| **Title**         | Digital signal processing |
+| **Title**     | Digital signal processing |
 | -- | -- |
-| **Author**        | Alexander Kapitanov       |
-| **Contact**       | sallador@bk.ru            |
-| **1st release**   | 10 Jul 2019               |
-| **License**       | GNU GPL 3.0               |
+| **Author**    | Alexander Kapitanov       |
+| **Contact**   | sallador@bk.ru            |
+| **Release**   | 10 Jul 2019               |
+| **License**   | GNU GPL 3.0               |
 
 ### Список лекций (предполагаемый)
 - Сигналы: аналоговые, дискретные, цифровые. Z-преобразование,
