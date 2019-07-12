@@ -18,7 +18,6 @@
 | **License**   | GNU GPL 3.0               |
 
 ### [Список лекций](https://github.com/capitanov/dsp-theory/tree/master/src "DSP lectures")
-[I'm an inline-style link with title](https://github.com/capitanov/dsp-theory/blob/master/src/dsp_theory_1_signals.ipynb "Google's Homepage")
 
 - [Сигналы: аналоговые, дискретные, цифровые. Z-преобразование](https://github.com/capitanov/dsp-theory/blob/master/src/dsp_theory_1_signals.ipynb "Signals, analog, digital, Z-transform"),
 - [Преобразование Фурье: спектр сигнала, ДПФ и БПФ](https://github.com/capitanov/dsp-theory/blob/master/src/dsp_theory_2_spectrum.ipynb "Discrete Fourier Transform. FFT, IFFT"),
