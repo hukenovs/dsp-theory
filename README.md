@@ -20,17 +20,19 @@
 ### [Список лекций](https://github.com/capitanov/dsp-theory/tree/master/src "DSP lectures")
 
 - [Сигналы: аналоговые, дискретные, цифровые. Z-преобразование](https://github.com/capitanov/dsp-theory/blob/master/src/dsp_theory_1_signals.ipynb "Signals, analog, digital, Z-transform"),
-- [Преобразование Фурье: спектр сигнала, ДПФ и БПФ](https://github.com/capitanov/dsp-theory/blob/master/src/dsp_theory_2_spectrum.ipynb "Discrete Fourier Transform. FFT, IFFT"),
-- [Свертка и корреляция. Линейная и циклическая свертка. Быстрая свертка](https://github.com/capitanov/dsp-theory/blob/master/src/dsp_theory_3_convolution.ipynb "Correlation, convolution: linear / circular / fast")
-- [Случайные процессы. Сигналы сложной формы, модуляция сигналов](https://github.com/capitanov/dsp-theory/blob/master/src/dsp_theory_4_random_and_signals.ipynb "Random signals AWGN, Modulation: AM, FM, Chirp")
+- [Преобразование Фурье: амплитудный и фазовый сигнала, ДПФ и БПФ](https://github.com/capitanov/dsp-theory/blob/master/src/dsp_theory_2_spectrum.ipynb "Discrete Fourier Transform. FFT, IFFT"),
+- [Свертка и корреляция. Линейная и циклическая свертка. Быстрая свёртка](https://github.com/capitanov/dsp-theory/blob/master/src/dsp_theory_3_convolution.ipynb "Correlation, convolution: linear / circular / fast")
+- [Случайные процессы. Белый шум. Функция плотности вероятностей](https://github.com/capitanov/dsp-theory/blob/master/src/dsp_theory_4_random_noise.ipynb "Random signals AWGN, Noise")
+- [Детерминированные сигналы. Модуляция: АМ, ЧМ, ФМ, ЛЧМ](https://github.com/capitanov/dsp-theory/blob/master/src/dsp_theory_5_modulation.ipynb "Modulation. AM-, FM-, Chirp signals")
 - Фильтрация сигналов: БИХ, КИХ фильтры, скользящее среднее
-- Ресемплинг: децимация и интерполяция,
 - [Оконная фильтрация. Детектирование слабых сигналов с помощью наложения окна](https://github.com/capitanov/dsp-theory/blob/master/src/dsp_theory_7_windows.ipynb "Windows, filtration: Hann, Blackman, Flattop, Kaiser etc."),
-- Модуляция и демодуляция сигналов,
+- Ресемплинг: децимация и интерполяция. CIC-фильтры и фильтры Фарроу
+- ...
+- ~~Модуляция, преобразование Гилберта~~,
 - ~~2-D преобразование Фурье для обработки изображений~~,
 - ~~Специализированные фильтры: всепропускающие, Фарроу~~,
 - ~~CORDIC, DDS, NCO, PLL ???~~,
-- ...
+
 
 P.S. Спасибо за внимание, следите за развитием проекта!
 
