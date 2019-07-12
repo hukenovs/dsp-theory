@@ -17,16 +17,20 @@
 | **Release**   | 10 Jul 2019               |
 | **License**   | GNU GPL 3.0               |
 
-### Список лекций (предполагаемый)
-- Сигналы: аналоговые, дискретные, цифровые. Z-преобразование,
-- Преобразование Фурье: спектр сигнала, ДПФ и БПФ,
-- Фильтрация сигналов: БИХ, КИХ фильтры,
-- Фильтрация сигналов: фильтры скользящего среднего, 
+### [Список лекций](https://github.com/capitanov/dsp-theory/tree/master/src "DSP lectures")
+[I'm an inline-style link with title](https://github.com/capitanov/dsp-theory/blob/master/src/dsp_theory_1_signals.ipynb "Google's Homepage")
+
+- [Сигналы: аналоговые, дискретные, цифровые. Z-преобразование](https://github.com/capitanov/dsp-theory/blob/master/src/dsp_theory_1_signals.ipynb "Signals, analog, digital, Z-transform"),
+- [Преобразование Фурье: спектр сигнала, ДПФ и БПФ](https://github.com/capitanov/dsp-theory/blob/master/src/dsp_theory_2_spectrum.ipynb "Discrete Fourier Transform. FFT, IFFT"),
+- [Свертка и корреляция. Линейная и циклическая свертка. Быстрая свертка](https://github.com/capitanov/dsp-theory/blob/master/src/dsp_theory_3_convolution.ipynb "Correlation, convolution: linear / circular / fast")
+- [Случайные процессы. Сигналы сложной формы, модуляция сигналов](https://github.com/capitanov/dsp-theory/blob/master/src/dsp_theory_4_random_and_signals.ipynb "Random signals AWGN, Modulation: AM, FM, Chirp")
+- Фильтрация сигналов: БИХ, КИХ фильтры, скользящее среднее
 - Ресемплинг: децимация и интерполяция,
-- Оконная фильтрация,
+- [Оконная фильтрация. Детектирование слабых сигналов с помощью наложения окна](https://github.com/capitanov/dsp-theory/blob/master/src/dsp_theory_7_windows.ipynb "Windows, filtration: Hann, Blackman, Flattop, Kaiser etc."),
 - Модуляция и демодуляция сигналов,
-- Свертка сигналов во временной и частотной областях,
 - ~~2-D преобразование Фурье для обработки изображений~~,
+- ~~Специализированные фильтры: всепропускающие, Фарроу~~,
+- ~~CORDIC, DDS, NCO, PLL ???~~,
 - ...
 
 P.S. Спасибо за внимание, следите за развитием проекта!
