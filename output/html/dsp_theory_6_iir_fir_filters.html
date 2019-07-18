@@ -13255,13 +13255,13 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p><img src="../img/fir_scheme.svg" alt="FIR Common scheme" style="width: 70%;"/></p>
+<p><img src="https://raw.githubusercontent.com/capitanov/dsp-theory/master/img/fir_scheme.svg?sanitize=true" alt="FIR Common scheme" style="width: 70%;"/></p>
 <p>Количество линий задержки всегда на единицу меньше, чем число коэффициентов или порядок фильтра. Импульсная характеристика КИХ фильтра совпадает с набором коэффициентов этого фильтра.</p>
 <p>Структурная схема БИХ-фильтра выглядит несколько сложнее из-за наличия обратных связей:</p>
-<p><img src="../img/iir_scheme.svg" alt="IIR Common scheme" style="width: 70%;"/></p>
+<p><img src="https://raw.githubusercontent.com/capitanov/dsp-theory/master/img/iir_scheme.svg?sanitize=true" alt="IIR Common scheme" style="width: 70%;"/></p>
 <p>Количество линий задержки БИХ фильтра равно $N+M$.</p>
 <p>Структурная схема в <strong>каноническом виде</strong> минимизирует количество линий задержки, поскольку использует общие линии задержки. Входной сумматор - с обратными связями. Выходной сумматор - обобщает результат. Преобразование от одной формы к другой достаточно просто и тривиально</p>
-<p><img src="../img/iir_scheme2.svg" alt="IIR scheme 2" style="width: 70%;"/></p>
+<p><img src="https://raw.githubusercontent.com/capitanov/dsp-theory/master/img/iir_scheme2.svg?sanitize=true" alt="IIR scheme 2" style="width: 70%;"/></p>
 <h3 id="&#1042;&#1099;&#1073;&#1086;&#1088;-&#1092;&#1080;&#1083;&#1100;&#1090;&#1088;&#1072;">&#1042;&#1099;&#1073;&#1086;&#1088; &#1092;&#1080;&#1083;&#1100;&#1090;&#1088;&#1072;<a class="anchor-link" href="#&#1042;&#1099;&#1073;&#1086;&#1088;-&#1092;&#1080;&#1083;&#1100;&#1090;&#1088;&#1072;">&#182;</a></h3><p>Перед разработчиками цифровых устройств часто встает задача выбора типа фильтра. Выбор между КИХ и БИХ фильтрами производится по следующим критериям:</p>
 <ul>
 <li>Фазовая характеристика БИХ фильтра - нелинейна. КИХ фильтры могут иметь строго линейную фазовую характеристику. Это означает, что такой фильтр не вносит искажений в форму сигнала. </li>
@@ -13509,7 +13509,7 @@ div#notebook {
 <p>Пропустим математические выкладки (при желании, это можно сделать самостоятельно ввиду тривиальности рассматриваемой задачи) и запишем результат:</p>
 <p>$ H(z) = \frac{1 + z^-3}{1 - z^-1} $</p>
 <p>Структурная схема такого фильтра представлена на следующем рисунке. Она состоит из двух цепей: звено без обратной связи - дифференцирующее, а звено с обратной связью - интегрирующее (сумматор с обратной связью).</p>
-<p><img src="../img/fir_recursive.svg" alt="FIR Recursive" style="width: 70%;"/></p>
+<p><img src="https://raw.githubusercontent.com/capitanov/dsp-theory/master/img/fir_recursive.svg?sanitize=true" alt="FIR Recursive" style="width: 70%;"/></p>
 <p>Покажем, что сигнал, прошедший через рекурсивный КИХ-фильтр, имеет аналогичные характеристики.</p>
 
 </div>
