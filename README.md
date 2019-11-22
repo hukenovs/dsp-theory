@@ -32,6 +32,16 @@
 - [Ресемплинг: децимация и интерполяция. CIC-фильтры, фильтры скользящего среднего](https://github.com/capitanov/dsp-theory/blob/master/src/dsp_theory_8_resampling.ipynb "CIC filters, decimation, interpolation, moving average")
 - [Непараметрические методы спектрального анализа](https://github.com/capitanov/dsp-theory/blob/master/src/dsp_theory_9_periodogram.ipynb "Spectrum analysis: Welch's Method")
 
+## Зависимости
+
+| **Requirements** |
+| :-- |
+| `jupyter`        |
+| `matplotlib`     |
+| `seaborn`        |
+| `scipy`          |
+| `numpy`          |
+
 
 P.S. Спасибо за внимание, следите за развитием проекта!
 
