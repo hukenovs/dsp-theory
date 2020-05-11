@@ -31,6 +31,7 @@
 - [Оконная фильтрация. Детектирование слабых сигналов с помощью наложения окна](https://github.com/capitanov/dsp-theory/blob/master/src/dsp_theory_7_windows.ipynb "Windows, filtration: Hann, Blackman, Flattop, Kaiser etc."), 
 - [Ресемплинг: децимация и интерполяция. CIC-фильтры, фильтры скользящего среднего](https://github.com/capitanov/dsp-theory/blob/master/src/dsp_theory_8_resampling.ipynb "CIC filters, decimation, interpolation, moving average")
 - [Непараметрические методы спектрального анализа](https://github.com/capitanov/dsp-theory/blob/master/src/dsp_theory_9_periodogram.ipynb "Spectrum analysis: Welch's Method")
+- [Полифазные схемы преобразования Фурье - усреднение по частоте и по времени](https://github.com/capitanov/dsp-theory/blob/master/src/dsp_theory_10_polyphase_ffts.ipynb "Spectrum analysis: average spectrum")
 
 ## Зависимости
 
@@ -42,6 +43,10 @@
 | `scipy`          |
 | `numpy`          |
 
+### TODO
+
+- Wavelet analysis
+- Audio analysis: Mel-spectrogram, griffin-lim algorithm, etc.
 
 P.S. Спасибо за внимание, следите за развитием проекта!
 
