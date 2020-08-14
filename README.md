@@ -16,7 +16,7 @@
 | :-- | :-- |
 | **Author**    | Alexander Kapitanov       |
 | **Language**  | Python                    |
-| **Contact**   | sallador@bk.ru            |
+| **Contact**   | <hidden>                  |
 | **Release**   | 10 Jul 2019               |
 | **License**   | GNU GPL 3.0               |
 
