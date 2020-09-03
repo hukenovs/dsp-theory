@@ -62,3 +62,5 @@ P.S. Спасибо за внимание, следите за развитие�
 
 ### License:
   * GNU GPL 3.0.
+
+P.S. English Version of the notebooks can be found in `src-en` folder.
