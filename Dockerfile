@@ -2,15 +2,15 @@
 # #############################################################################
 #
 # Build image:
-# >> docker build -t dsp-app . 
+# >> docker build -t dsp-app .
 #
 # Run container:
 # >> docker run --rm --name my-app -it -p 8888:8888 dsp-app
 #
 # #############################################################################
 
-FROM        python:3.7.5
-LABEL       maintainer="Alexander Kapitanov sallador@bk.ru"
+FROM        python:3.9
+LABEL       maintainer="Alexander Kapitanov"
 LABEL       source="https://github.com/capitanov/dsp-theory"
 
 # Install pip libraries
@@ -24,5 +24,3 @@ COPY        . .
 # Execute Final command
 EXPOSE      8888
 CMD         jupyter notebook --port 8888 --no-browser --ip 0.0.0.0 --allow-root
-
-
