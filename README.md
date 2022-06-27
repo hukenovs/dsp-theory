@@ -40,7 +40,7 @@
 # Create conda environment and install needed packages
 conda create -n "dsp_venv" python=3.9 -y
 conda activate dsp_venv
-pip install -r reqirements.txt
+pip install -r requirements.txt
 # Run jupyter notebook server and follow link from console
 jupyter notebook
 ```
