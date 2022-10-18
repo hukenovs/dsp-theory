@@ -8,17 +8,17 @@
 
 ## [Список лекций (на русском)](https://github.com/hukenovs/dsp-theory/tree/master/src "DSP courses in RU")
 
-1. [Сигналы: аналоговые, дискретные, цифровые. Z-преобразование](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_1_signals.ipynb "Signals, analog, digital, Z-transform"),
-2. [Преобразование Фурье: амплитудный и фазовый спектр сигнала, ДПФ и БПФ](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_2_spectrum.ipynb "Discrete Fourier Transform. FFT, IFFT"),
-3. [Свертка и корреляция. Линейная и циклическая свертка. Быстрая свёртка](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_3_convolution.ipynb "Correlation, convolution: linear / circular / fast")
-4. [Случайные процессы. Белый шум. Функция плотности вероятностей](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_4_random_noise.ipynb "Random signals AWGN, Noise")
-5. [Детерминированные сигналы. Модуляция: АМ, ЧМ, ФМ, ЛЧМ. Манипуляция](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_5_modulation.ipynb "Modulation. AM-, FM-, Chirp signals")
-6. [Фильтрация сигналов: БИХ, КИХ фильтры](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_6_iir_fir_filters.ipynb "IIR / FIR filters")
-7. [Оконная фильтрация. Детектирование слабых сигналов с помощью наложения окна](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_7_windows.ipynb "Windows, filtration: Hann, Blackman, Flattop, Kaiser etc."), 
-8. [Ресемплинг: децимация и интерполяция. CIC-фильтры, фильтры скользящего среднего](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_8_resampling.ipynb "CIC filters, decimation, interpolation, moving average")
-9. [Непараметрические методы спектрального анализа](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_9_periodogram.ipynb "Spectrum analysis: Welch's Method")
-10. [Полифазные схемы преобразования Фурье - усреднение по частоте и по времени](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_10_polyphase_ffts.ipynb "Spectrum analysis: average spectrum")
-11. [Банки фильтров в задачах аудиокодирования](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_11_filter_banks.ipynb "Filter banks for audio processing")
+1. [Сигналы: аналоговые, дискретные, цифровые. Z-преобразование](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_1_signals.ipynb?flush_cache=True "Signals, analog, digital, Z-transform"),
+2. [Преобразование Фурье: амплитудный и фазовый спектр сигнала, ДПФ и БПФ](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_2_spectrum.ipynb?flush_cache=True "Discrete Fourier Transform. FFT, IFFT"),
+3. [Свертка и корреляция. Линейная и циклическая свертка. Быстрая свёртка](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_3_convolution.ipynb?flush_cache=True "Correlation, convolution: linear / circular / fast")
+4. [Случайные процессы. Белый шум. Функция плотности вероятностей](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_4_random_noise.ipynb?flush_cache=True "Random signals AWGN, Noise")
+5. [Детерминированные сигналы. Модуляция: АМ, ЧМ, ФМ, ЛЧМ. Манипуляция](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_5_modulation.ipynb?flush_cache=True "Modulation. AM-, FM-, Chirp signals")
+6. [Фильтрация сигналов: БИХ, КИХ фильтры](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_6_iir_fir_filters.ipynb?flush_cache=True "IIR / FIR filters")
+7. [Оконная фильтрация. Детектирование слабых сигналов с помощью наложения окна](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_7_windows.ipynb?flush_cache=True "Windows, filtration: Hann, Blackman, Flattop, Kaiser etc."), 
+8. [Ресемплинг: децимация и интерполяция. CIC-фильтры, фильтры скользящего среднего](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_8_resampling.ipynb?flush_cache=True "CIC filters, decimation, interpolation, moving average")
+9. [Непараметрические методы спектрального анализа](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_9_periodogram.ipynb?flush_cache=True "Spectrum analysis: Welch's Method")
+10. [Полифазные схемы преобразования Фурье - усреднение по частоте и по времени](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_10_polyphase_ffts.ipynb?flush_cache=True "Spectrum analysis: average spectrum")
+11. [Банки фильтров в задачах аудиокодирования](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_11_filter_banks.ipynb?flush_cache=True "Filter banks for audio processing")
 
 ## Install
 - Install anaconda / [miniconda](https://docs.conda.io/en/latest/miniconda.html)
