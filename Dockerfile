@@ -10,8 +10,7 @@
 # #############################################################################
 
 FROM        python:3.9
-LABEL       maintainer="Alexander Kapitanov"
-LABEL       source="https://github.com/capitanov/dsp-theory"
+LABEL       source="https://github.com/hukenovs/dsp-theory"
 
 # Install pip libraries
 COPY        requirements.txt /tmp/
