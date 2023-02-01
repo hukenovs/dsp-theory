@@ -19,36 +19,28 @@
 9. [Непараметрические методы спектрального анализа](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_9_periodogram.ipynb?flush_cache=True "Spectrum analysis: Welch's Method")
 10. [Полифазные схемы преобразования Фурье - усреднение по частоте и по времени](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_10_polyphase_ffts.ipynb?flush_cache=True "Spectrum analysis: average spectrum")
 11. [Банки фильтров в задачах аудиокодирования](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_11_filter_banks.ipynb?flush_cache=True "Filter banks for audio processing")
+12. [Фильтры Фарроу](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_12_filter_farrow.ipynb?flush_cache=True "Filter Farrow")
 
-## Install
-- Install anaconda / [miniconda](https://docs.conda.io/en/latest/miniconda.html)
-- Create and activate [virtual environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
-- Install python packages from `requirements.txt`
-- Run jupyter notebooks via Jupyter server or JetBrains DataSpell
+## Установка
+- Установите [miniconda](https://docs.conda.io/en/latest/miniconda.html)
+- Создайте и активируйте [виртуальную среду](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
+- Установите необходимые библиотеки из `requirements.txt`
+- Запустите jupyter notebooks через Jupyter server или JetBrains DataSpell
 
 ```bash
-# Create conda environment and install needed packages
+# Создайте среду и установите необходимые библиотеки
 conda create -n "dsp_venv" python=3.9 -y
 conda activate dsp_venv
 pip install -r requirements.txt
-# Run jupyter notebook server and follow link from console
+# Запустите jupyter notebook server и перейдите по ссылке из консоли 
 jupyter notebook
 ```
 
-## Requirements
-```bash
-numpy==1.21.2
-scipy==1.7.1
-matplotlib==3.4.3
-seaborn==0.11.2
-jupyter==1.0.0
-```
-
-### Habr blogpost
+### Пост на Habr
   * [Digital Signal Processing](https://habr.com/ru/post/460445/ "Habr post about DSP")
 
-### First Release
+### Первый релиз
   * 2019/07/10
     
-### License
+### Лицензия
   * GNU GPL 3.0.
