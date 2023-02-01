@@ -41,6 +41,11 @@ jupyter notebook
 
 ### Первый релиз
   * 2019/07/10
-    
+
+### Авторы
+  * Alexander Kapitanov, [@hukenovs](https://github.com/hukenovs)
+  * Vladimir Fadeev, [@kirlf](https://github.com/kirlf)
+  * Karina Kvanchiani, [@karinakvanchiani](https://github.com/karinakvanchiani)
+  * Elizaveta Petrova, [@kleinsbotle](https://github.com/kleinsbotle)
 ### Лицензия
   * GNU GPL 3.0.
