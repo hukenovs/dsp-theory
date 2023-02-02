@@ -1,6 +1,6 @@
-numpy==1.21.5
-scipy==1.9.1
-matplotlib==3.5.2
+numpy==1.22.0
+scipy==1.7.1
+matplotlib==3.4.3
 seaborn==0.11.2
 jupyter==1.0.0
 librosa==0.9.2
