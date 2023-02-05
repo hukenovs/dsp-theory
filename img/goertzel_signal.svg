@@ -1,0 +1,22 @@
+<svg width="1682" height="367" viewBox="0 0 1682 367" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1682" height="367" fill="#F5F5F5"/>
+<rect x="-160" y="-164" width="2082" height="694" fill="white"/>
+<path d="M1628.06 186.061C1628.65 185.475 1628.65 184.525 1628.06 183.939L1618.51 174.393C1617.93 173.807 1616.98 173.807 1616.39 174.393C1615.81 174.979 1615.81 175.929 1616.39 176.515L1624.88 185L1616.39 193.485C1615.81 194.071 1615.81 195.021 1616.39 195.606C1616.98 196.192 1617.93 196.192 1618.51 195.606L1628.06 186.061ZM1.60013e-07 186.5L1627 186.5L1627 183.5L-1.60013e-07 183.5L1.60013e-07 186.5Z" fill="black"/>
+<path d="M881 127C876.582 127 873 130.582 873 135C873 139.418 876.582 143 881 143C885.418 143 889 139.418 889 135C889 130.582 885.418 127 881 127ZM879.5 135V185H882.5V135H879.5Z" fill="black"/>
+<path d="M534 125C529.582 125 526 128.582 526 133C526 137.418 529.582 141 534 141C538.418 141 542 137.418 542 133C542 128.582 538.418 125 534 125ZM532.5 133V183H535.5V133H532.5Z" fill="black"/>
+<path d="M701 225C696.582 225 693 228.582 693 233C693 237.418 696.582 241 701 241C705.418 241 709 237.418 709 233C709 228.582 705.418 225 701 225ZM699.5 183L699.5 233H702.5L702.5 183H699.5Z" fill="black"/>
+<path d="M352 75C347.582 75 344 78.5817 344 83C344 87.4183 347.582 91 352 91C356.418 91 360 87.4183 360 83C360 78.5817 356.418 75 352 75ZM350.5 83V183H353.5V83H350.5Z" fill="black"/>
+<path d="M172 41C176.418 41 180 37.4183 180 33C180 28.5817 176.418 25 172 25C167.582 25 164 28.5817 164 33C164 37.4183 167.582 41 172 41ZM173.5 183L173.5 33H170.5L170.5 183H173.5Z" fill="black"/>
+<path d="M1238 327C1233.58 327 1230 330.582 1230 335C1230 339.418 1233.58 343 1238 343C1242.42 343 1246 339.418 1246 335C1246 330.582 1242.42 327 1238 327ZM1236.5 185L1236.5 335L1239.5 335L1239.5 185L1236.5 185Z" fill="black"/>
+<path d="M1419 277C1414.58 277 1411 280.582 1411 285C1411 289.418 1414.58 293 1419 293C1423.42 293 1427 289.418 1427 285C1427 280.582 1423.42 277 1419 277ZM1417.5 185L1417.5 285L1420.5 285L1420.5 185L1417.5 185Z" fill="black"/>
+<path d="M1058 277C1053.58 277 1050 280.582 1050 285C1050 289.418 1053.58 293 1058 293C1062.42 293 1066 289.418 1066 285C1066 280.582 1062.42 277 1058 277ZM1056.5 185L1056.5 285L1059.5 285L1059.5 185L1056.5 185Z" fill="black"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="20" letter-spacing="0em"><tspan x="141.447" y="19.2727">s(0)=6</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="20" letter-spacing="0em"><tspan x="664.258" y="263.273">s(3)=-2</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="20" letter-spacing="0em"><tspan x="503.328" y="121.273">s(2)=2</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="20" letter-spacing="0em"><tspan x="1382.71" y="311.273">s(7)=-4</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="20" letter-spacing="0em"><tspan x="1200.36" y="362.273">s(6)=-6</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="20" letter-spacing="0em"><tspan x="1022.84" y="311.273">s(5)=-4</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="20" letter-spacing="0em"><tspan x="847.467" y="123.273">s(4)=2</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="20" letter-spacing="0em"><tspan x="323.373" y="71.2727">s(1)=4</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="36" letter-spacing="0em"><tspan x="1650.97" y="195.091">n</tspan></text>
+</svg>

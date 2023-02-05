@@ -1,0 +1,26 @@
+<svg width="836" height="481" viewBox="0 0 836 481" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="836" height="481" fill="#F5F5F5"/>
+<rect x="-204" y="-212" width="2082" height="694" fill="white"/>
+<rect width="836" height="481" fill="white"/>
+<path d="M249.061 293.061C249.646 292.475 249.646 291.525 249.061 290.939L239.515 281.393C238.929 280.808 237.979 280.808 237.393 281.393C236.808 281.979 236.808 282.929 237.393 283.515L245.879 292L237.393 300.485C236.808 301.071 236.808 302.021 237.393 302.607C237.979 303.192 238.929 303.192 239.515 302.607L249.061 293.061ZM144 293.5H248V290.5H144V293.5Z" fill="black"/>
+<path d="M439.061 293.061C439.646 292.475 439.646 291.525 439.061 290.939L429.515 281.393C428.929 280.808 427.979 280.808 427.393 281.393C426.808 281.979 426.808 282.929 427.393 283.515L435.879 292L427.393 300.485C426.808 301.071 426.808 302.021 427.393 302.607C427.979 303.192 428.929 303.192 429.515 302.607L439.061 293.061ZM312 293.5H438V290.5H312V293.5Z" fill="black"/>
+<path d="M678.061 293.061C678.646 292.475 678.646 291.525 678.061 290.939L668.515 281.393C667.929 280.808 666.979 280.808 666.393 281.393C665.808 281.979 665.808 282.929 666.393 283.515L674.879 292L666.393 300.485C665.808 301.071 665.808 302.021 666.393 302.607C666.979 303.192 667.929 303.192 668.515 302.607L678.061 293.061ZM494 293.5H677V290.5H494V293.5Z" fill="black"/>
+<line x1="612.5" y1="292" x2="612.5" y2="156" stroke="black" stroke-width="3"/>
+<path d="M453.939 154.939C453.354 155.525 453.354 156.475 453.939 157.061L463.485 166.607C464.071 167.192 465.021 167.192 465.607 166.607C466.192 166.021 466.192 165.071 465.607 164.485L457.121 156L465.607 147.515C466.192 146.929 466.192 145.979 465.607 145.393C465.021 144.808 464.071 144.808 463.485 145.393L453.939 154.939ZM614 154.5L455 154.5L455 157.5L614 157.5L614 154.5Z" fill="black"/>
+<line x1="388" y1="157.5" x2="280" y2="157.5" stroke="black" stroke-width="3"/>
+<path d="M278.939 260.061C279.525 260.646 280.475 260.646 281.061 260.061L290.607 250.515C291.192 249.929 291.192 248.979 290.607 248.393C290.021 247.808 289.071 247.808 288.485 248.393L280 256.879L271.515 248.393C270.929 247.808 269.979 247.808 269.393 248.393C268.808 248.979 268.808 249.929 269.393 250.515L278.939 260.061ZM278.5 156L278.5 259L281.5 259L281.5 156L278.5 156Z" fill="black"/>
+<circle cx="280" cy="292" r="28.5" fill="white" stroke="black" stroke-width="3"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="48" letter-spacing="0em"><tspan x="264.18" y="305.455">+</tspan></text>
+<rect x="392.5" y="127.5" width="57" height="57" fill="white" stroke="black" stroke-width="3"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="32" letter-spacing="0em"><tspan x="407.344" y="169.136">z</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" letter-spacing="0em"><tspan x="421.102" y="151.318">-1</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="32" letter-spacing="0em"><tspan x="294.797" y="139.136">y  (k)</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" letter-spacing="0em"><tspan x="309.945" y="151.318">r-1</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" letter-spacing="0em"><tspan x="477.477" y="365.318">N</tspan></text>
+<path d="M442.811 319.524L442.811 264.098L490.811 291.811L442.811 319.524Z" fill="white" stroke="black" stroke-width="3"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="32" letter-spacing="0em"><tspan x="446.312" y="357.136">W</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" letter-spacing="0em"><tspan x="477.469" y="333.318">-k</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="36" letter-spacing="0em"><tspan x="83.8555" y="303.091">s(r)</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="32" letter-spacing="0em"><tspan x="690.297" y="299.136">y (k)</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" letter-spacing="0em"><tspan x="707.023" y="308.318">r</tspan></text>
+</svg>
