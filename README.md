@@ -34,6 +34,14 @@ pip install -r requirements.txt
 # Run jupyter notebook server and follow link from console
 jupyter notebook
 ```
+Для лекции 15 необходимо отдельно установить библиотку [scaleogram](https://github.com/alsauve/scaleogram)
+```bash
+# Склонируйте репозиторий
+git clone http://github.com/alsauve/scaleogram
+cd scaleogram
+# Установите библиотеку
+python ./setup.py install --user
+```
 
 ## Requirements
 ```bash
