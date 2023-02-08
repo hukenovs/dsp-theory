@@ -35,6 +35,14 @@ pip install -r requirements.txt
 # Запустите jupyter notebook server и перейдите по ссылке из консоли 
 jupyter notebook
 ```
+Для лекции 15 необходимо отдельно установить библиотку [scaleogram](https://github.com/alsauve/scaleogram)
+```bash
+# Склонируйте репозиторий
+git clone http://github.com/alsauve/scaleogram
+cd scaleogram
+# Установите библиотеку
+python ./setup.py install --user
+```
 
 ### Пост на Habr
   * [Digital Signal Processing](https://habr.com/ru/post/460445/ "Habr post about DSP")
