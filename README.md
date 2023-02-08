@@ -2,9 +2,9 @@
 
 ![Digital signal processing](img/cic_signal.svg "Improve your skills into Digital Signtal Processing!")
 
-Этот проект - базовые лекции по **цифровой обработке сигналов** (ЦОС) в виде тетрадок Jupyter Notebook. Можно воспринимать их как полноценный курс по цифровой обработке или использовать как заметки по теоретическим аспектам и практическому применению задач ЦОС.  
+Перед вами лекции по **цифровой обработке сигналов** (ЦОС) в виде тетрадок Jupyter Notebook на языке Python. Можно воспринимать их как полноценный курс по цифровой обработке или использовать как заметки по теоретическим аспектам и практическому применению в решении различных задач.  
 
-Материалы представлены с использованием библиотек на языке *Python* (numpy , scipy, matplotlib, seaborn etc). Основная информация взята из моих лекций, которые я читал студентам Московского Энергетического Института ("НИУ МЭИ"). Частично информация из этих лекций была использована на обучающих семинарах в Центре Современной Электроники. Кроме того, в эти лекции входит перевод различных статей, компиляция материалов из достоверных источников и литературы по тематике цифровой обработки сигналов, а также официальная документация по прикладным пакетам и встроенным функциям библиотек scipy и numpy языка **Python**. Некоторые лекции написаны с помощью моих хороших знакомых и коллег, за что им отдельная благодарность! 
+Материалы представлены с использованием библиотек на языке *Python* (numpy , scipy, librosa, matplotlib, seaborn etc). Основная информация взята из моих лекций, которые я читал студентам Московского Энергетического Института ("НИУ МЭИ") и которая была использована на обучающих семинарах в Центре Современной Электроники. Лекции содержат перевод различных статей, компиляцию материалов из достоверных источников и литературы по тематике цифровой обработки сигналов, а также официальную документацию по прикладным библиотекам языка **Python**. Некоторые лекции написаны с помощью моих хороших знакомых и коллег, за что им отдельная благодарность!
 
 ## [Список лекций (на русском)](https://github.com/hukenovs/dsp-theory/tree/master/src "DSP courses in RU")
 
@@ -19,19 +19,20 @@
 9. [Непараметрические методы спектрального анализа](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_9_periodogram.ipynb?flush_cache=True "Spectrum analysis: Welch's Method")
 10. [Полифазные схемы преобразования Фурье - усреднение по частоте и по времени](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_10_polyphase_ffts.ipynb?flush_cache=True "Spectrum analysis: average spectrum")
 11. [Банки фильтров в задачах аудиокодирования](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_11_filter_banks.ipynb?flush_cache=True "Filter banks for audio processing")
+12. [Фильтры Фарроу](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_12_filter_farrow.ipynb?flush_cache=True "Filter Farrow")
 
-## Install
-- Install anaconda / [miniconda](https://docs.conda.io/en/latest/miniconda.html)
-- Create and activate [virtual environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
-- Install python packages from `requirements.txt`
-- Run jupyter notebooks via Jupyter server or JetBrains DataSpell
+## Установка
+- Установите [miniconda](https://docs.conda.io/en/latest/miniconda.html)
+- Создайте и активируйте [виртуальную среду](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
+- Установите необходимые библиотеки из `requirements.txt`
+- Запустите jupyter notebooks через Jupyter server или JetBrains DataSpell
 
 ```bash
-# Create conda environment and install needed packages
+# Создайте среду и установите необходимые библиотеки
 conda create -n "dsp_venv" python=3.9 -y
 conda activate dsp_venv
 pip install -r requirements.txt
-# Run jupyter notebook server and follow link from console
+# Запустите jupyter notebook server и перейдите по ссылке из консоли 
 jupyter notebook
 ```
 Для лекции 15 необходимо отдельно установить библиотку [scaleogram](https://github.com/alsauve/scaleogram)
@@ -43,20 +44,16 @@ cd scaleogram
 python ./setup.py install --user
 ```
 
-## Requirements
-```bash
-numpy==1.21.2
-scipy==1.7.1
-matplotlib==3.4.3
-seaborn==0.11.2
-jupyter==1.0.0
-```
-
-### Habr blogpost
+### Пост на Habr
   * [Digital Signal Processing](https://habr.com/ru/post/460445/ "Habr post about DSP")
 
-### First Release
+### Первый релиз
   * 2019/07/10
-    
-### License
+
+### Авторы
+  * Alexander Kapitanov, [@hukenovs](https://github.com/hukenovs)
+  * Vladimir Fadeev, [@kirlf](https://github.com/kirlf)
+  * Karina Kvanchiani, [@karinakvanchiani](https://github.com/karinakvanchiani)
+  * Elizaveta Petrova, [@kleinsbotle](https://github.com/kleinsbotle)
+### Лицензия
   * GNU GPL 3.0.
