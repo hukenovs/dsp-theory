@@ -8,7 +8,7 @@ do
 done
 
 # Merge to single Jupyter Notebook
- nbmerge "${array[@]}" -o "dsp_theory.ipynb"
+nbmerge "${array[@]}" -o "dsp_theory.ipynb"
 
 # Convert to HTML
 jupyter nbconvert --to html "dsp_theory.ipynb"
