@@ -46,9 +46,17 @@ cd scaleogram
 # Установите библиотеку
 python ./setup.py install --user
 ```
+### HTML / PDF
+Для конвертации ноутбуков в **html** формат можно выполнить скрипт `convert.sh`. Могут потребоваться следующие библиотеки:
+```commandline
+nbmerge
+nbformat
+nbconvert
+```
+Для конвертации в **pdf** может потребоваться `pandoc`
 
 ### Пост на Habr
-  * [Digital Signal Processing](https://habr.com/ru/post/460445/ "Habr post about DSP")
+  * [Digital Signal Processing Course](https://habr.com/ru/post/460445/ "Digital Signal Processing Course")
 
 ### Первый релиз
   * 2019/07/10

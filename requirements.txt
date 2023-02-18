@@ -3,6 +3,9 @@ scipy==1.10.0
 matplotlib==3.6.3
 seaborn==0.12.2
 jupyter==1.0.0
+nbmerge==0.0.4
+nbformat==5.7.3
+nbconvert==7.2.9
 librosa==0.9.2
 opencv-python==4.6.0.66
 PyWavelets==1.4.1
