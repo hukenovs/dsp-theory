@@ -20,6 +20,9 @@
 10. [Полифазные схемы преобразования Фурье - усреднение по частоте и по времени](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_10_polyphase_ffts.ipynb?flush_cache=True "Spectrum analysis: average spectrum")
 11. [Банки фильтров в задачах аудиокодирования](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_11_filter_banks.ipynb?flush_cache=True "Filter banks for audio processing")
 12. [Фильтры Фарроу](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_12_filter_farrow.ipynb?flush_cache=True "Filter Farrow")
+13. [Мел-спектрограммы](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_13_mel_scale.ipynb?flush_cache=True "Mel-spectrum")
+14. [Кепстр и MFCC](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_14_mfcc.ipynb?flush_cache=True "MFCC")
+15. [Вейвлет-преобразование](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_15_wavelets.ipynb?flush_cache=True "Wavelets")
 
 ## Установка
 - Установите [miniconda](https://docs.conda.io/en/latest/miniconda.html)
@@ -35,9 +38,25 @@ pip install -r requirements.txt
 # Запустите jupyter notebook server и перейдите по ссылке из консоли 
 jupyter notebook
 ```
+Для лекции 15 необходимо отдельно установить библиотку [scaleogram](https://github.com/alsauve/scaleogram)
+```bash
+# Склонируйте репозиторий
+git clone http://github.com/alsauve/scaleogram
+cd scaleogram
+# Установите библиотеку
+python ./setup.py install --user
+```
+### HTML / PDF
+Для конвертации ноутбуков в **html** формат можно выполнить скрипт `convert.sh`. Могут потребоваться следующие библиотеки:
+```commandline
+nbmerge
+nbformat
+nbconvert
+```
+Для конвертации в **pdf** может потребоваться `pandoc`
 
 ### Пост на Habr
-  * [Digital Signal Processing](https://habr.com/ru/post/460445/ "Habr post about DSP")
+  * [Digital Signal Processing Course](https://habr.com/ru/post/460445/ "Digital Signal Processing Course")
 
 ### Первый релиз
   * 2019/07/10
