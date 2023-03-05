@@ -23,6 +23,7 @@
 13. [Мел-спектрограммы](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_13_mel_scale.ipynb?flush_cache=True "Mel-spectrum")
 14. [Кепстр и MFCC](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_14_mfcc.ipynb?flush_cache=True "MFCC")
 15. [Вейвлет-преобразование](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_15_wavelets.ipynb?flush_cache=True "Wavelets")
+16. [Алгоритм Герцеля](https://nbviewer.jupyter.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_16_goertzel.ipynb?flush_cache=True "Goertzel")
 
 ## Установка
 - Установите [miniconda](https://docs.conda.io/en/latest/miniconda.html)
@@ -66,5 +67,6 @@ nbconvert
   * Vladimir Fadeev, [@kirlf](https://github.com/kirlf)
   * Karina Kvanchiani, [@karinakvanchiani](https://github.com/karinakvanchiani)
   * Elizaveta Petrova, [@kleinsbotle](https://github.com/kleinsbotle)
+  * Andrei Makhliarchuk, [@anotherhelloworld](https://github.com/anotherhelloworld)
 ### Лицензия
   * GNU GPL 3.0.
